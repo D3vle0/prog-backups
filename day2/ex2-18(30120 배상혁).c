@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main(void) {
 	int a, b, c;
-	printf("¼¼ ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("æŠ€ èç”« æ¶ä»¿çªæŠ€å¤¸: ");
 	scanf("%d %d %d", &a, &b, &c);
-	printf("¼¼ ¼öÀÇ °ö : %d\n¼¼ ¼öÀÇ Æò±Õ : %d\n", a*b*c, (a+b+c)/3);
+	printf("æŠ€ èç‹¼ èšŒ : %d\næŠ€ èç‹¼ ä¹é—­ : %d\n", a*b*c, (a+b+c)/3);
+	
 }
