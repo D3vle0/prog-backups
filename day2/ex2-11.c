@@ -2,6 +2,6 @@
 int main(void) {
 	double a = 13.7, b = 9.5;
 	int s = a + b;
-	printf("a¿Í bÀÇ ÇÕ: %d\n", s);
-	printf("a¿Í bÀÇ ÇÕ: %.2f\n", a+b);
+	printf("aì™€ bì˜ í•©: %d\n", s);
+	printf("aì™€ bì˜ í•©: %.2f\n", a+b);
 }
